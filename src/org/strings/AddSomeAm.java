@@ -3,6 +3,15 @@ package org.strings;
 import java.util.Scanner;
 
 public class AddSomeAm {
+	//this is not singleton program
+	
+	
+	String single="jgjgjgdsjhg";
+	
+	
+	
+	
+	
 	
 	public static void main(String[] args) {
 	
