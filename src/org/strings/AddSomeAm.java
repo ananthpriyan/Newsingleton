@@ -6,6 +6,21 @@ public class AddSomeAm {
 	
 	public static void main(String[] args) {
 	
+		
+		
+		//check this in repo
+		
+		
+		String sss="lav";
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		String s="I Have 100 Rupees";
 		
 		String add = "";
