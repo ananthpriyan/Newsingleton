@@ -42,6 +42,8 @@ public class AddSomeAm {
 		
 	}
 		System.out.println(add);
+
+		System.out.printnl("This message for git Checking purpose");
 		
 		
 	}
