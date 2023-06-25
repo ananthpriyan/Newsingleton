@@ -33,6 +33,7 @@ public class AddorEven {
 
 		else {
 			System.out.println("odd");
+			System.out.println("new message from lavanya");
 		}
 	}
 }
