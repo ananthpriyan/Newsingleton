@@ -20,6 +20,7 @@ public class AddorEven {
 		}
 		System.out.println("sum    :" + sum);
 		System.out.println("count    :" + count);
+		System.out.println(" I have added this :" + sum);
 
 		// To print odd or even number
 
