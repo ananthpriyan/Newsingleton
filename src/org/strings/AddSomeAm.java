@@ -42,7 +42,9 @@ public class AddSomeAm {
 		
 	}
 		System.out.println(add);
-		
+
+		System.out.println("This message for git Checking purpose");
+		System.out.println("This message Anand git Checking purpose");
 		
 	}
 	
