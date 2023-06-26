@@ -43,6 +43,8 @@ public class AddSomeAm {
 	}
 		System.out.println(add);
 		System.out.println(" Nila 26 th message");
+		System.out.println("This message Master git Checking purpose");
+		System.out.println("This message Anand first commit git Checking purpose");
 		
 	}
 	
