@@ -8,6 +8,7 @@ public class AddSomeAm {
 	
 		
 		String s="I Have 100 Rupees";
+		String s="I Have 200 Rupees";  // By first commit by Branch A
 		
 		String add = "";
 		String[] split = s.split(" ");
