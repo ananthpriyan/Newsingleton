@@ -7,8 +7,6 @@ public class AddsomeAmountByUser {
 	public static void main(String[] args) {
 		
 		String s="I have 200 rupees";
-		String s="I have 300 rupees"; // 31122023   01Zycus
-		String s="I have 400 rupees";   //3112023 01ZycusB
 		
 		String op="";
 		
