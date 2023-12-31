@@ -7,7 +7,7 @@ public class AddsomeAmountByUser {
 	public static void main(String[] args) {
 		
 		String s="I have 200 rupees";
-		
+		String s="I have 300 rupees"; // 31122023   01Zycus
 		String op="";
 		
 		String[] split = s.split(" ");
