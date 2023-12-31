@@ -8,6 +8,7 @@ public class AddSomeAm {
 	
 		
 		String s="I Have 100 Rupees";
+		String s="I Have 500 Rupees"; //31122023   01 Zycus B
 		
 		String add = "";
 		String[] split = s.split(" ");

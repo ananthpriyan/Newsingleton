@@ -11,6 +11,7 @@ public class CountAndOccurancesEachCharacter {
 	public static void main(String[] args) {
 		
 		String s="Hello Anandharaj";
+		String s="Hello Anandharaj"; // 31122023  01ZycusB
 		 
 		String output="";
 		
