@@ -6,6 +6,7 @@ public class LowerandUppercasecount {
 
 		String s = "Hello World";
 		String s = "Hello World";  // 3112023  01ZycusB
+		String s = "Hello World"; //31122023    01Zycus
 
 		String lowercase = "";
 		String uppercase = "";

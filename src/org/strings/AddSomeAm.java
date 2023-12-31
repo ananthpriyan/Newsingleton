@@ -8,6 +8,7 @@ public class AddSomeAm {
 	
 		
 		String s="I Have 100 Rupees";
+		String s="I Have 200 Rupees";  // 31122023    01Zycus
 		String s="I Have 500 Rupees"; //31122023   01 Zycus B
 		
 		String add = "";
